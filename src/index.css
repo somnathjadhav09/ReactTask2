@@ -1,0 +1,27 @@
+.not-found {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #ffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar{
+  background: #785e9a;
+}
+.homecontainer{
+  display: flex;
+  justify-content: center;
+}
+.showdata{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.form-group{
+  display: block;
+  justify-content: center;
+  margin-bottom: 20px;
+}
